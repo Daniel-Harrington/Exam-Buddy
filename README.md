@@ -6,16 +6,22 @@ Google Mediapipe:
 '''pip install mediapipe'''
 
 Open Conputer Vision:
-
-'''pip install opencv-python'''
+```
+pip install opencv-python
+```
 
 Numpy:
-'''pip install numpy'''
+
+```
+pip install numpy
+```
+
 
 Tensorflow 2.7.0:
 
-'''pip install tensorflow==2.7.0'''
-
+```
+pip install tensorflow==2.7.0
+```
 
 # Notes
 
