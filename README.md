@@ -9,20 +9,16 @@ Experimenting with applying some linear algebra concepts as well as hand trackin
 ```
 pip install opencv-python
 ```
-
 ### Numpy:
 
 ```
 pip install numpy
 ```
-
-
 ### Tensorflow 2.7.0:
 
 ```
 pip install tensorflow==2.7.0
 ```
-
 # Notes
 
 Moving hands out of frame resets the threshold for happy/recalibrates
