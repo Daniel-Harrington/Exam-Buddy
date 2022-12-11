@@ -4,7 +4,7 @@ Experimenting with applying some linear algebra concepts as well as hand trackin
 
 ### Google Mediapipe:
 ```pip install mediapipe```
-### Open Conputer Vision:
+### Open Computer Vision:
 ```pip install opencv-python```
 ### Numpy:
 ```pip install numpy```
