@@ -1,23 +1,23 @@
 # Exam-Buddy
 Experimenting with applying some linear algebra concepts as well as hand tracking
 # Enviroment Requirements
-Google Mediapipe:
+### Google Mediapipe:
 
-'''pip install mediapipe'''
+```pip install mediapipe```
 
-Open Conputer Vision:
+### Open Conputer Vision:
 ```
 pip install opencv-python
 ```
 
-Numpy:
+### Numpy:
 
 ```
 pip install numpy
 ```
 
 
-Tensorflow 2.7.0:
+### Tensorflow 2.7.0:
 
 ```
 pip install tensorflow==2.7.0
